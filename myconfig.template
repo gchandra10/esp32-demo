@@ -1,0 +1,8 @@
+WIFI_SSID = ""
+WIFI_PASS = "#"
+CLIENT_ID = ""
+
+BROKER=".s1.eu.hivemq.cloud"
+PORT=8883
+USER_NAME=""
+PASSWORD=""
